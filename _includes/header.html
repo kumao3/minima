@@ -1,7 +1,7 @@
 <header class="site-header">
-
+  <img src="/assets/images/bear.svg" width="64" height="64">
   <div class="wrapper">
-    <img src="/assets/images/bear.svg" width="64" height="64">
+    
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
