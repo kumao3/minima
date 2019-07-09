@@ -12,5 +12,6 @@ Terraform/Ansibleでのコード管理と画面ポチポチの両使い。
 
 好きな言葉は「売ってよし、買ってよし」。
 
-犬と一緒に生活しています。
 ![mydog](/assets/images/mydog.jpg)
+
+犬と一緒に生活しています。
