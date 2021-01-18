@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-76年生まれのおっさんインフラエンジニアかも。
-
-Go/AWS/DatadogでWEBサービスの構築/運用をしています。
-
-Terraform/Ansibleでのコード管理と画面ポチポチの両使い。
+1976年生まれの酒浸りなおっさん。
 
 ![mydog](/assets/images/mydog.jpg)
 
