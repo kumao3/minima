@@ -5,3 +5,4 @@
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
 gtag	_includes/google-analytics.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
+gtag	_includes/google-analytics.html	/^  function gtag(){dataLayer.push(arguments);}$/;"	f
